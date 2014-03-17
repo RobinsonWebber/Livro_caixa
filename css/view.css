@@ -1,0 +1,119 @@
+body
+{
+	background:#C3D9FF;
+	font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+	font-size:small;
+	margin:8px 0 16px;
+	text-align:center;
+}
+
+#form_container
+{
+	background:#fff;
+	
+	margin:0 auto;
+	text-align:left;
+	width:800px;
+}
+
+#top
+{
+	display:block;
+	height:10px;
+	margin:10px auto 0;
+	width:800px;
+}
+
+#footer
+{
+	width:640px;
+	clear:both;
+	color:#999999;
+	text-align:center;
+	width:800px;
+	padding-bottom: 15px;
+	font-size: 85%;
+}
+#conteudo
+{
+	width:640px;
+	clear:both;
+	color:#0000CD;
+	text-align:left;
+	width:800px;
+	padding-bottom: 15px;
+	font-size: 100%;
+}
+#aviso
+{
+    background:#FFF68F;
+	clear:both;
+	color:#FF0000;
+	text-align:center;
+	width:400px;
+	padding-bottom: 15px;
+	font-size: 100%;
+    display: none; */
+}
+#footer a{
+	color:#999999;
+	text-decoration: none;
+	border-bottom: 1px dotted #999999;
+}
+
+#bottom
+{
+	display:block;
+	height:10px;
+	margin:0 auto;
+	width:650px;
+}
+
+#titulo
+{
+	width:100px;
+	clear:both;
+	color:#00008B;
+	text-align:center;
+	width:800px;
+	padding-bottom: 15px;
+	font-size: 120%;
+}
+
+form.appnitro
+{
+	margin:20px 20px 0;
+	padding:0 0 20px;
+}
+
+/**** Logo Section  *****/
+h1
+{
+	
+    font-size: 12px;
+	/*background-color:#E8EEF7; */
+	margin:0;
+	min-height:0;
+	padding:0;
+	text-decoration:none;
+	text-indent:-8000px;
+}
+
+h1 a
+{
+	
+	display:block;
+	height:100%;
+	min-height:40px;
+	/*overflow:hidden;*/
+}
+input {
+background-color: #F0F8FF;
+font: 12px verdana, arial, helvetica, sans-serif;
+color:#003399;
+border:2px solid #000099;
+height: 30px;
+
+}
+
+

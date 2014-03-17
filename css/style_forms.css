@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document http://adaptinsite.com/blog/*/
+
+body {
+	background:#fff url(../img/bg.jpg);
+	background-attachment: fixed;
+    background-position: center center ;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin:auto;
+	
+}
+
+h1 {
+	font-size: 18px;
+	color: #069;
+	padding:5px;
+}
+
+#box{
+	margin:0 auto;
+}
+
+#erro{
+	color:red;
+
+}
+
+.erro {
+	position: relative;top:9px;
+	padding-bottom:5px;
+	width:16px;
+	height:16px;
+}
+
+.sucesso{
+	position: relative;top:9px;
+	padding-bottom:5px;
+	width:16px;
+	height:16px;	
+}
+
+input, textarea {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	padding: 5px;
+	border: 1px dashed #999;
+	background:  #F9F9F9;
+}
+
+#box td{
+	color:#069;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	width:80px;
+}
+#box .footer a{
+	color:#069;
+	text-align:center;
+}
+
+#box table{
+	background:#eee;
+	width:500px;
+	height:400px;
+	padding:10px;
+	border:2px dashed #69C;
+	margin-top:50px;
+   -moz-border-radius: 10px 10px 10px / 10px 10px;
+   
+    box-shadow:0 0 5px 5px #fff;
+   -moz-box-shadow:0 0 5px 5px #fff;
+   -webkit-box-shadow:0 0 5px 5px #fff;
+}
+
+
+#aviso {
+	padding: 5px 0 15px 0;
+	color: #900;
+	font-weight: bold;
+	display:normal;
+
+}
+
+#envolve{
+	background:#D4FFFF;
+	width:auto;
+	height:20px;
+	padding: 5px 0 25px 0;
+	border:1px dashed #09C;
+	-moz-border-radius: 10px 10px 10px / 10px 10px;
+}
+#loading{
+	width:auto;
+	height:30px;
+	display:none;
+}
+
